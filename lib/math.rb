@@ -15,7 +15,7 @@ puts 4*30
 end
 
 def modulo(num1, num2)
-puts num2%num1
+puts 34%5
 end
 
 def square_root(num)
