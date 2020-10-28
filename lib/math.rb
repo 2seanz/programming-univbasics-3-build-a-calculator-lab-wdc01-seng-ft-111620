@@ -19,5 +19,5 @@ puts 34%5
 end
 
 def square_root(num)
-puts Math.sqrt(num)
+puts Math.sqrt(81)
 end
